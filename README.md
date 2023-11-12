@@ -66,7 +66,7 @@ Start the Jupyter Notebook server:
 jupyter notebook
 ```
 
-This will open a new tab in your web browser. Navigate to the notebook file (`your_notebook.ipynb`) and open it.
+This will open a new tab in your web browser. Navigate to the notebook file (`run_style_transfer.ipynb`) and open it.
 
 ### Notebook Usage
 
